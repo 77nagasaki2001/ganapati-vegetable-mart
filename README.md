@@ -1,4 +1,3 @@
-# redesigned-octo-disco
 #  GANAPATI VEGETABLE MART
 
 A simple **hotel booking website** [project of web designing] 
