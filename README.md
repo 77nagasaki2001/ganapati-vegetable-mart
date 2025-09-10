@@ -1,12 +1,12 @@
 #  GANAPATI FRUITS MART
 
 A simple **FRUITS BYUING WEBSITE** [project of web designing] 
-This project demonstrates BUY FRUITS ONLINE, and a clean design.
+This project demonstrates Buy different Fruits online, and a clean design.
 
 ---
 ## ✨ Features
 - FRUITS buy  
-- Different vegetables
+- Different Fruits
 - Responsive layout for all devices  
    
 
