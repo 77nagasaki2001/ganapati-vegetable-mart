@@ -1,11 +1,11 @@
-#  GANAPATI VEGETABLE MART
+#  GANAPATI FRUITS MART
 
-A simple **hotel booking website** [project of web designing] 
-This project demonstrates room booking, hotel facilities, and a clean design.
+A simple **FRUITS BYUING WEBSITE** [project of web designing] 
+This project demonstrates BUY FRUITS ONLINE, and a clean design.
 
 ---
 ## ✨ Features
-- vegetable buy  
+- FRUITS buy  
 - Different vegetables
 - Responsive layout for all devices  
    
